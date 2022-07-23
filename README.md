@@ -6,7 +6,7 @@ Project assumes you have installed `Go 1.18`.
 
 ### Make 
 
-Type `make`. It will create a build folder and put executable there.
+Type `make`. It will create a build folder and place executable there.
 
 ### Go standard build command
 
